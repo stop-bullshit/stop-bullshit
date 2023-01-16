@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stop-bullshit&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=stop-bullshit&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=stop-bullshit&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **stop-bullshit/stop-bullshit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
